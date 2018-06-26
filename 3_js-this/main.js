@@ -25,3 +25,5 @@ UI.render.apply(post, [10, 'div']);
 
 var r = UI.render.bind(post);
 r(3, 'h1');
+
+
